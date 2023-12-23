@@ -1,0 +1,33 @@
+ Casualwear
+Hoodies
+T Shirts & Polos
+Skinnies & Tank Tops
+Shirts
+Shorts
+Jackets
+Bottoms
+
+ Formalwear
+Shirts
+Pants & Trousers
+Suits
+
+ Underwear & Socks
+Boxers
+Briefs
+Trunks
+Undershirt
+Socks
+
+ Winterwear
+Sweaters
+
+ Accessories
+Belts
+Ties & Bows
+Caps & Hats
+
+ Men's Grooming
+Fragrances
+Bath & Shower
+Wellness
